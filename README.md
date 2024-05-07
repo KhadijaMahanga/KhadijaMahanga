@@ -1,18 +1,12 @@
-### Hi there 👋
-
-![Metrics](https://metrics.lecoq.io/khadijamahanga?template=classic&languages=1&lines=1&pagespeed=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&pagespeed.url=https%3A%2F%2Fvandyk.fr&pagespeed.detailed=false&pagespeed.screenshot=false)
+### Hello there 👋
 
 <!--
 **KhadijaMahanga/KhadijaMahanga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+My name is Khadij!
+
+- 🔭 I’m currently working with the following languages: Python, Javascript (React, React Native, NodeJs), PHP
+- 🌱 I’m currently learning Data Science Modeling, Rust Language
+- 👯 I’m looking to collaborate on [Unstructured Text Extraction](https://medium.com/@khadijamahanga/unstructured-pdf-extraction-series-a8ba04da767f), Machine Learning Operations (MLOps) Engineer, & Full Stack Software Development.
+- 📫 How to reach me: Email me at khadijamahanga@gmail.com or drop me a message on [LinkedIn](https://www.linkedin.com/in/khadijamahanga/)
